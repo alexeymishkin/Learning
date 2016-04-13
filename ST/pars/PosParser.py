@@ -39,6 +39,7 @@ def max_fuel(at):
         print('Папка с логами не найдена')
 
 
+
 def main():
     while True:
         print('Выберите режим : ')
