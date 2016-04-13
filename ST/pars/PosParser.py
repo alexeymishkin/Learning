@@ -28,7 +28,7 @@ def main():
             if at == 'q':
                 break
             else:
-                for x in range(1,32):
+                for x in range(1, 32):
                     if x < 10:
                         pos_path = log_dir() + '\\' + '0' + str(x) + '.log'
                     else:
